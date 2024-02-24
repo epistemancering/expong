@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "orientation": "portrait",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.anonymous.expotest"
+    }
+  }
+}
